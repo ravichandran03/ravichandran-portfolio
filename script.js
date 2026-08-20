@@ -141,6 +141,9 @@ const translations = {
         bachelorPlace:
             "Karpagam College of Engineering — Coimbatore, India",
 
+        bachelorCGPA:
+            "CGPA: 8.3 / 10",
+
 
         // EXPERIENCE
 
@@ -154,7 +157,7 @@ const translations = {
             "May 2023 – June 2023",
 
         expDesc:
-            "Worked on Java development and gained practical experience in software development and programming.",
+             "Developed and tested Java applications by applying Object-Oriented Programming (OOP) principles, data structures, and core Java concepts. Designed, implemented, and optimized backend components with a focus on application performance, reliability, and maintainability. Worked extensively with the Java Collections Framework for efficient data management and manipulation, JDBC for database connectivity, and exception handling for robust application development. Participated in the development of a banking application as part of a project team, contributing to the design, implementation, integration, and testing of application components. Applied software development practices to identify and resolve issues, improve application functionality, and ensure reliable execution of the developed features. Gained practical experience in Java backend development, database interaction, debugging, testing, and collaborative software development.",
 
 
         // CONTACT
@@ -324,6 +327,9 @@ const translations = {
         bachelorPlace:
             "Karpagam College of Engineering — Coimbatore, Inde",
 
+        bachelorCGPA:
+            "Moyenne : 8,3 / 10",
+
 
         // EXPERIENCE
 
@@ -337,7 +343,7 @@ const translations = {
             "Mai 2023 – Juin 2023",
 
         expDesc:
-            "Participation au développement Java et acquisition d’une expérience pratique en développement logiciel et en programmation.",
+           "Développement et test d’applications Java en appliquant les principes de la programmation orientée objet (POO), les structures de données et les concepts fondamentaux de Java. Conception, implémentation et optimisation de composants backend en mettant l’accent sur les performances, la fiabilité et la maintenabilité des applications. Utilisation du Java Collections Framework pour la gestion et la manipulation efficace des données, de JDBC pour la connexion aux bases de données et de la gestion des exceptions pour développer des applications robustes. Participation au développement d’une application bancaire au sein d’une équipe projet, avec une contribution à la conception, à l’implémentation, à l’intégration et aux tests des différents composants de l’application. Mise en pratique des bonnes pratiques de développement logiciel pour identifier et résoudre les problèmes, améliorer les fonctionnalités et garantir le bon fonctionnement de l’application. Acquisition d’une expérience pratique en développement backend Java, interaction avec les bases de données, débogage, tests et travail collaboratif.",
 
 
         // CONTACT
