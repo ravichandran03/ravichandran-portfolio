@@ -58,32 +58,32 @@ const translations = {
         skillPython: "Python",
 
         skillPythonDesc:
-            "NumPy, Pandas, Matplotlib, Seaborn",
+            "NumPy • Pandas • Matplotlib • Seaborn",
 
         skillML: "Machine Learning",
 
         skillMLDesc:
-            "Scikit-learn, Regression, Classification",
+            "Scikit-learn • Regression • Classification",
 
         skillData: "Data Science",
 
         skillDataDesc:
-            "EDA, Data Cleaning, Data Visualization",
+            "EDA • Data Cleaning • Data Visualization",
 
         skillSQL: "SQL",
 
         skillSQLDesc:
-            "Data querying, filtering and aggregation",
+            "Queries • Filtering • Joins • Aggregation",
 
-        skillTools: "Tools",
+        skillTools: "Tools & Technologies",
 
         skillToolsDesc:
-            "Git, GitHub, Jupyter Notebook, VS Code",
+            "Git • GitHub • Jupyter • VS Code",
 
-        skillAI: "AI",
+        skillAI: "Artificial Intelligence",
 
         skillAIDesc:
-            "Artificial Intelligence & ML Applications",
+            "AI Applications • Machine Learning • Predictive Modeling",
 
 
         // PROJECTS
@@ -92,10 +92,10 @@ const translations = {
             "Customer Churn Prediction",
 
         churnDesc:
-            "Machine Learning project to predict whether a customer is likely to churn based on customer behavior and subscription data.",
+            "A Machine Learning application designed to predict whether a customer is likely to churn based on customer behaviour, subscription details, payment delays, support interactions, and usage patterns.",
 
         churnTech:
-            "Python • Pandas • Scikit-learn • Machine Learning",
+            "Python • Pandas • Scikit-learn • Random Forest • Streamlit",
 
         viewProject:
             "View Project",
@@ -105,20 +105,20 @@ const translations = {
             "FIFA World Cup Player Data Analysis",
 
         fifaDesc:
-            "Exploratory Data Analysis of FIFA World Cup player statistics to discover trends, patterns and insights using Python and Pandas.",
+            "An Exploratory Data Analysis project focused on FIFA World Cup player statistics. The project explores player performance, goals, assists, playing time, age, positions, and team-level patterns to discover meaningful insights from the dataset.",
 
         fifaTech:
-            "Python • Pandas • Matplotlib • Seaborn",
+            "Python • Pandas • NumPy • Matplotlib • Seaborn • EDA",
 
 
         bookTitle:
             "Book Rating Predictor",
 
         bookDesc:
-            "Machine Learning application that predicts book ratings using historical book-related data.",
+            "A Machine Learning application that predicts book ratings using historical book-related data. The project demonstrates data preprocessing, model development and prediction through an interactive web application.",
 
         bookTech:
-            "Python • PyCaret • KNN • Flask • React",
+            "Python • Pandas • PyCaret • KNN • Flask • React",
 
         liveDemo:
             "Live Demo",
@@ -127,7 +127,7 @@ const translations = {
         // EDUCATION
 
         masterTitle:
-            "MSc / Applied MSc in Data Science & Artificial Intelligence",
+            "Applied MSc in Data Science & Artificial Intelligence",
 
         masterPlace:
             "DSTI School of Engineering — Paris, France",
@@ -157,7 +157,7 @@ const translations = {
             "May 2023 – June 2023",
 
         expDesc:
-             "Developed and tested Java applications by applying Object-Oriented Programming (OOP) principles, data structures, and core Java concepts. Designed, implemented, and optimized backend components with a focus on application performance, reliability, and maintainability. Worked extensively with the Java Collections Framework for efficient data management and manipulation, JDBC for database connectivity, and exception handling for robust application development. Participated in the development of a banking application as part of a project team, contributing to the design, implementation, integration, and testing of application components. Applied software development practices to identify and resolve issues, improve application functionality, and ensure reliable execution of the developed features. Gained practical experience in Java backend development, database interaction, debugging, testing, and collaborative software development.",
+            "Developed and tested Java applications by applying Object-Oriented Programming (OOP) principles, data structures, and core Java concepts. Designed, implemented, and optimized backend components with a focus on application performance, reliability, and maintainability. Worked with the Java Collections Framework, JDBC for database connectivity, and exception handling. Participated in the development of a banking application as part of a project team.",
 
 
         // CONTACT
@@ -188,7 +188,7 @@ const translations = {
             "Étudiant en Data Science & Intelligence Artificielle",
 
         intro:
-            "Je développe des solutions basées sur les données avec Python, le Machine Learning et l'Intelligence Artificielle.",
+            "Je développe des solutions basées sur les données avec Python, le Machine Learning et l’Intelligence Artificielle.",
 
         viewProjects:
             "Voir les projets",
@@ -239,37 +239,37 @@ const translations = {
             "Python",
 
         skillPythonDesc:
-            "NumPy, Pandas, Matplotlib, Seaborn",
+            "NumPy • Pandas • Matplotlib • Seaborn",
 
         skillML:
             "Machine Learning",
 
         skillMLDesc:
-            "Scikit-learn, Régression, Classification",
+            "Scikit-learn • Régression • Classification",
 
         skillData:
             "Data Science",
 
         skillDataDesc:
-            "Analyse exploratoire, Nettoyage des données, Visualisation",
+            "Analyse exploratoire • Nettoyage des données • Visualisation",
 
         skillSQL:
             "SQL",
 
         skillSQLDesc:
-            "Requêtes, filtrage et agrégation des données",
+            "Requêtes • Filtrage • Jointures • Agrégation",
 
         skillTools:
-            "Outils",
+            "Outils et technologies",
 
         skillToolsDesc:
-            "Git, GitHub, Jupyter Notebook, VS Code",
+            "Git • GitHub • Jupyter • VS Code",
 
         skillAI:
-            "IA",
+            "Intelligence Artificielle",
 
         skillAIDesc:
-            "Intelligence Artificielle et applications du Machine Learning",
+            "Applications IA • Machine Learning • Modélisation prédictive",
 
 
         // PROJECTS
@@ -278,10 +278,10 @@ const translations = {
             "Prédiction du Churn Client",
 
         churnDesc:
-            "Projet de Machine Learning visant à prédire si un client est susceptible de se désabonner en fonction de son comportement et de ses données d’abonnement.",
+            "Une application de Machine Learning conçue pour prédire si un client est susceptible de se désabonner en fonction de son comportement, de ses informations d’abonnement, des retards de paiement et des interactions avec le support.",
 
         churnTech:
-            "Python • Pandas • Scikit-learn • Machine Learning",
+            "Python • Pandas • Scikit-learn • Random Forest • Streamlit",
 
         viewProject:
             "Voir le projet",
@@ -291,20 +291,20 @@ const translations = {
             "Analyse des données des joueurs de la Coupe du Monde FIFA",
 
         fifaDesc:
-            "Analyse exploratoire des statistiques des joueurs de la Coupe du Monde FIFA afin d’identifier des tendances, des modèles et des informations pertinentes avec Python et Pandas.",
+            "Projet d’analyse exploratoire des statistiques des joueurs de la Coupe du Monde FIFA. L’analyse porte sur les performances, les buts, les passes décisives, le temps de jeu, l’âge, les postes et les équipes.",
 
         fifaTech:
-            "Python • Pandas • Matplotlib • Seaborn",
+            "Python • Pandas • NumPy • Matplotlib • Seaborn • EDA",
 
 
         bookTitle:
             "Prédiction de notes de livres",
 
         bookDesc:
-            "Application de Machine Learning permettant de prédire les notes des livres à partir de données historiques.",
+            "Application de Machine Learning permettant de prédire les notes des livres à partir de données historiques. Le projet comprend le prétraitement des données, le développement du modèle et la prédiction via une application web interactive.",
 
         bookTech:
-            "Python • PyCaret • KNN • Flask • React",
+            "Python • Pandas • PyCaret • KNN • Flask • React",
 
         liveDemo:
             "Démo en ligne",
@@ -313,7 +313,7 @@ const translations = {
         // EDUCATION
 
         masterTitle:
-            "MSc / Applied MSc en Data Science et Intelligence Artificielle",
+            "Applied MSc en Data Science et Intelligence Artificielle",
 
         masterPlace:
             "DSTI School of Engineering — Paris, France",
@@ -343,7 +343,7 @@ const translations = {
             "Mai 2023 – Juin 2023",
 
         expDesc:
-           "Développement et test d’applications Java en appliquant les principes de la programmation orientée objet (POO), les structures de données et les concepts fondamentaux de Java. Conception, implémentation et optimisation de composants backend en mettant l’accent sur les performances, la fiabilité et la maintenabilité des applications. Utilisation du Java Collections Framework pour la gestion et la manipulation efficace des données, de JDBC pour la connexion aux bases de données et de la gestion des exceptions pour développer des applications robustes. Participation au développement d’une application bancaire au sein d’une équipe projet, avec une contribution à la conception, à l’implémentation, à l’intégration et aux tests des différents composants de l’application. Mise en pratique des bonnes pratiques de développement logiciel pour identifier et résoudre les problèmes, améliorer les fonctionnalités et garantir le bon fonctionnement de l’application. Acquisition d’une expérience pratique en développement backend Java, interaction avec les bases de données, débogage, tests et travail collaboratif.",
+            "Développement et test d’applications Java en appliquant les principes de la programmation orientée objet (POO), les structures de données et les concepts fondamentaux de Java. Conception et optimisation de composants backend. Utilisation du Java Collections Framework, de JDBC et de la gestion des exceptions. Participation au développement d’une application bancaire au sein d’une équipe projet.",
 
 
         // CONTACT
@@ -357,7 +357,24 @@ const translations = {
 };
 
 
-// ================= LANGUAGE FUNCTION =================
+// =====================================================
+// SAFE TEXT FUNCTION
+// =====================================================
+
+function setText(id, value) {
+
+    const element = document.getElementById(id);
+
+    if (element) {
+        element.textContent = value;
+    }
+
+}
+
+
+// =====================================================
+// LANGUAGE FUNCTION
+// =====================================================
 
 function setLanguage(language) {
 
@@ -365,202 +382,107 @@ function setLanguage(language) {
 
     const t = translations[language];
 
-
     // NAVIGATION
-
     document.getElementById("nav-home").textContent = t.home;
-
     document.getElementById("nav-about").textContent = t.about;
-
     document.getElementById("nav-skills").textContent = t.skills;
-
     document.getElementById("nav-projects").textContent = t.projects;
-
     document.getElementById("nav-education").textContent = t.education;
-
     document.getElementById("nav-experience").textContent = t.experience;
-
     document.getElementById("nav-contact").textContent = t.contact;
 
 
     // HOME
-
     document.getElementById("hello").textContent = t.hello;
-
     document.getElementById("role").textContent = t.role;
-
     document.getElementById("intro").textContent = t.intro;
-
-    document.getElementById("view-projects").textContent =
-        t.viewProjects;
-
-    document.getElementById("english-cv").textContent =
-        t.englishCV;
-
-    document.getElementById("french-cv").textContent =
-        t.frenchCV;
+    document.getElementById("view-projects").textContent = t.viewProjects;
+    document.getElementById("english-cv").textContent = t.englishCV;
+    document.getElementById("french-cv").textContent = t.frenchCV;
 
 
     // ABOUT
-
-    document.getElementById("about-title").textContent =
-        t.aboutTitle;
-
-    document.getElementById("about1").textContent =
-        t.about1;
-
-    document.getElementById("about2").textContent =
-        t.about2;
-
-    document.getElementById("about3").textContent =
-        t.about3;
+    document.getElementById("about-title").textContent = t.aboutTitle;
+    document.getElementById("about1").textContent = t.about1;
+    document.getElementById("about2").textContent = t.about2;
+    document.getElementById("about3").textContent = t.about3;
 
 
     // SKILLS
+    document.getElementById("skills-title").textContent = t.skillsTitle;
 
-    document.getElementById("skills-title").textContent =
-        t.skillsTitle;
+    document.getElementById("skill-python").textContent = t.skillPython;
+    document.getElementById("skill-python-desc").textContent = t.skillPythonDesc;
 
-    document.getElementById("skill-python").textContent =
-        t.skillPython;
+    document.getElementById("skill-ml").textContent = t.skillML;
+    document.getElementById("skill-ml-desc").textContent = t.skillMLDesc;
 
-    document.getElementById("skill-python-desc").textContent =
-        t.skillPythonDesc;
+    document.getElementById("skill-data").textContent = t.skillData;
+    document.getElementById("skill-data-desc").textContent = t.skillDataDesc;
 
-    document.getElementById("skill-ml").textContent =
-        t.skillML;
+    document.getElementById("skill-sql").textContent = t.skillSQL;
+    document.getElementById("skill-sql-desc").textContent = t.skillSQLDesc;
 
-    document.getElementById("skill-ml-desc").textContent =
-        t.skillMLDesc;
+    document.getElementById("skill-tools").textContent = t.skillTools;
+    document.getElementById("skill-tools-desc").textContent = t.skillToolsDesc;
 
-    document.getElementById("skill-data").textContent =
-        t.skillData;
-
-    document.getElementById("skill-data-desc").textContent =
-        t.skillDataDesc;
-
-    document.getElementById("skill-sql").textContent =
-        t.skillSQL;
-
-    document.getElementById("skill-sql-desc").textContent =
-        t.skillSQLDesc;
-
-    document.getElementById("skill-tools").textContent =
-        t.skillTools;
-
-    document.getElementById("skill-tools-desc").textContent =
-        t.skillToolsDesc;
-
-    document.getElementById("skill-ai").textContent =
-        t.skillAI;
-
-    document.getElementById("skill-ai-desc").textContent =
-        t.skillAIDesc;
+    document.getElementById("skill-ai").textContent = t.skillAI;
+    document.getElementById("skill-ai-desc").textContent = t.skillAIDesc;
 
 
     // PROJECTS
+    document.getElementById("projects-title").textContent = t.projectsTitle;
 
-    document.getElementById("projects-title").textContent =
-        t.projectsTitle;
+    document.getElementById("project-churn-title").textContent = t.churnTitle;
+    document.getElementById("project-churn-desc").textContent = t.churnDesc;
+    document.getElementById("project-churn-tech").textContent = t.churnTech;
+    document.getElementById("project-churn-btn").textContent = t.viewProject;
 
-    document.getElementById("project-churn-title").textContent =
-        t.churnTitle;
+    document.getElementById("project-fifa-title").textContent = t.fifaTitle;
+    document.getElementById("project-fifa-desc").textContent = t.fifaDesc;
+    document.getElementById("project-fifa-tech").textContent = t.fifaTech;
+    document.getElementById("project-fifa-btn").textContent = t.viewProject;
 
-    document.getElementById("project-churn-desc").textContent =
-        t.churnDesc;
-
-    document.getElementById("project-churn-tech").textContent =
-        t.churnTech;
-
-    document.getElementById("project-churn-btn").textContent =
-        t.viewProject;
-
-
-    document.getElementById("project-fifa-title").textContent =
-        t.fifaTitle;
-
-    document.getElementById("project-fifa-desc").textContent =
-        t.fifaDesc;
-
-    document.getElementById("project-fifa-tech").textContent =
-        t.fifaTech;
-
-    document.getElementById("project-fifa-btn").textContent =
-        t.viewProject;
-
-
-    document.getElementById("project-book-title").textContent =
-        t.bookTitle;
-
-    document.getElementById("project-book-desc").textContent =
-        t.bookDesc;
-
-    document.getElementById("project-book-tech").textContent =
-        t.bookTech;
-
-    document.getElementById("project-book-btn").textContent =
-        t.viewProject;
-
-    document.getElementById("project-book-demo").textContent =
-        t.liveDemo;
+    document.getElementById("project-book-title").textContent = t.bookTitle;
+    document.getElementById("project-book-desc").textContent = t.bookDesc;
+    document.getElementById("project-book-tech").textContent = t.bookTech;
+    document.getElementById("project-book-btn").textContent = t.viewProject;
+    document.getElementById("project-book-demo").textContent = t.liveDemo;
 
 
     // EDUCATION
+    document.getElementById("education-title").textContent = t.educationTitle;
 
-    document.getElementById("education-title").textContent =
-        t.educationTitle;
+    document.getElementById("edu-master-title").textContent = t.masterTitle;
+    document.getElementById("edu-master-place").textContent = t.masterPlace;
+    document.getElementById("edu-master-field").textContent = t.masterField;
 
-    document.getElementById("edu-master-title").textContent =
-        t.masterTitle;
-
-    document.getElementById("edu-master-place").textContent =
-        t.masterPlace;
-
-    document.getElementById("edu-master-field").textContent =
-        t.masterField;
-
-    document.getElementById("edu-bachelor-title").textContent =
-        t.bachelorTitle;
-
-    document.getElementById("edu-bachelor-place").textContent =
-        t.bachelorPlace;
+    document.getElementById("edu-bachelor-title").textContent = t.bachelorTitle;
+    document.getElementById("edu-bachelor-place").textContent = t.bachelorPlace;
+    document.getElementById("bachelor-cgpa").textContent = t.bachelorCGPA;
 
 
     // EXPERIENCE
+    document.getElementById("experience-title").textContent = t.experienceTitle;
 
-    document.getElementById("experience-title").textContent =
-        t.experienceTitle;
-
-    document.getElementById("exp-title").textContent =
-        t.expTitle;
-
-    document.getElementById("exp-company").textContent =
-        t.expCompany;
-
-    document.getElementById("exp-date").textContent =
-        t.expDate;
-
-    document.getElementById("exp-desc").textContent =
-        t.expDesc;
+    document.getElementById("exp-title").textContent = t.expTitle;
+    document.getElementById("exp-company").textContent = t.expCompany;
+    document.getElementById("exp-date").textContent = t.expDate;
+    document.getElementById("exp-desc").textContent = t.expDesc;
 
 
     // CONTACT
-
-    document.getElementById("contact-title").textContent =
-        t.contactTitle;
-
-    document.getElementById("contact-desc").textContent =
-        t.contactDesc;
+    document.getElementById("contact-title").textContent = t.contactTitle;
+    document.getElementById("contact-desc").textContent = t.contactDesc;
 
 
     // FOOTER
-
-    document.getElementById("footer-text").textContent =
-        t.footerText;
+    document.getElementById("footer-text").textContent = t.footerText;
 }
 
-
-// ================= LOAD SAVED LANGUAGE =================
+// =====================================================
+// LOAD SAVED LANGUAGE
+// =====================================================
 
 const savedLanguage = localStorage.getItem("language");
 
@@ -575,7 +497,9 @@ if (savedLanguage && translations[savedLanguage]) {
 }
 
 
-// ================= SMOOTH SCROLL =================
+// =====================================================
+// SMOOTH SCROLL
+// =====================================================
 
 function smoothScroll(event, id) {
 
@@ -637,6 +561,7 @@ function smoothScroll(event, id) {
         }
 
     }
+
 
     requestAnimationFrame(animation);
 }
