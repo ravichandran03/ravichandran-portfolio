@@ -437,6 +437,7 @@ function setLanguage(language) {
     document.getElementById("project-churn-desc").textContent = t.churnDesc;
     document.getElementById("project-churn-tech").textContent = t.churnTech;
     document.getElementById("project-churn-btn").textContent = t.viewProject;
+    document.getElementById("project-churn-demo").textContent = t.liveDemo;
 
     document.getElementById("project-fifa-title").textContent = t.fifaTitle;
     document.getElementById("project-fifa-desc").textContent = t.fifaDesc;
