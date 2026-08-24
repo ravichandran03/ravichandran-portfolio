@@ -521,7 +521,7 @@ function smoothScroll(event, id) {
 
     const distance = targetPosition - start;
 
-    const duration = 800;
+    const duration = 500;
 
     let startTime = null;
 
