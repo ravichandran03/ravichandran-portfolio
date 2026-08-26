@@ -132,6 +132,9 @@ const translations = {
         masterPlace:
             "DSTI School of Engineering — Paris, France",
 
+        masterDate: 
+            "2025 – Present",
+
         masterField:
             "Data Science • Machine Learning • Artificial Intelligence",
 
@@ -318,6 +321,9 @@ const translations = {
         masterPlace:
             "DSTI School of Engineering — Paris, France",
 
+        masterDate: 
+            "2025 – Présent",
+
         masterField:
             "Data Science • Machine Learning • Intelligence Artificielle",
 
@@ -456,6 +462,7 @@ function setLanguage(language) {
 
     document.getElementById("edu-master-title").textContent = t.masterTitle;
     document.getElementById("edu-master-place").textContent = t.masterPlace;
+    document.getElementById("edu-master-date").textContent = t.masterDate;
     document.getElementById("edu-master-field").textContent = t.masterField;
 
     document.getElementById("edu-bachelor-title").textContent = t.bachelorTitle;

@@ -1383,3 +1383,36 @@ button:focus-visible {
         transform: translateY(-5px);
     }
 }
+
+.edu-date {
+    color: var(--primary) !important;
+    font-size: 14px;
+    font-weight: 600;
+    margin: 8px 0 !important;
+}
+
+/* ================= CURSOR GLOW ================= */
+
+.cursor-glow {
+    position: fixed;
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+
+    background: #38bdf8;
+
+    pointer-events: none;
+    z-index: 9999;
+
+    transform: translate(-50%, -50%);
+
+    box-shadow:
+        0 0 15px #38bdf8,
+        0 0 30px rgba(56, 189, 248, 0.5);
+
+    transition:
+        background 0.3s ease,
+        box-shadow 0.3s ease,
+        transform 0.2s ease;
+}
+
